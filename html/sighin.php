@@ -1,9 +1,6 @@
 <html>
 <head>   
-<title>sign in</title>   
-
-
-
+<title>sign in</title> 
 </head>
 
 
